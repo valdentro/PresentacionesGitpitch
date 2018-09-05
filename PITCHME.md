@@ -3,13 +3,12 @@
 ## desde el VAIO
 
 ---
-# la previa
-Esto es lo que quiero decir...
+# Esto es lo que quiero decir...
 
 @ul[roman]
 
-- esto
-- lo otro
+- las plantas
+- los bichos
 
 @ulend
 
@@ -19,7 +18,7 @@ aquí habrá que poner algo, no?
 
 ---
 
-# Vancouver
+# ZGZ
 Ya estamos en Vncv...
 +++
 Al contrario del pensamiento popular, el texto de Lorem Ipsum no es simplemente texto aleatorio. Tiene sus raices en una pieza clásica de la literatura del Latin, que data del año 45 antes de Cristo, haciendo que este adquiera mas de 2000 años de antiguedad.
