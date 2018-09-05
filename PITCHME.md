@@ -54,9 +54,8 @@ es así porque
 
 si  no...
 
----?image=image.jpg&size= auto 90%
+---?image=10.png&size= auto 90%
 
-### ni idea
-
-![](https://instagram.com/p/BjFq9rbhI5y/)
+### ni ideagram
+[enlace a GEonomia](http://www.geonomia.org)
 
