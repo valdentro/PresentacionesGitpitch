@@ -3,7 +3,7 @@
 ## desde el VAIO 333
 
 ---
-# Esto es lo que quiero decir...
+Esto es lo que quiero decir...
 
 @ul[roman]
 
