@@ -1,9 +1,7 @@
 # ZARAPIETAS
 
 ## Zaras del Mundo
-
 ---
-
 @ul
 - En esta web podéis ver las tiendas de Zara en las que he estado yo...
 
