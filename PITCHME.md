@@ -1,20 +1,25 @@
-# PRESENTACIÓN DE PRUEBA
+# ZARAPIETAS
 
-## desde el VAIO 333
+## Zaras del Mundo
 
 ---
-Esto es lo que quiero decir...
 
-@ul[roman]
+@ul
+- En esta web podéis ver las tiendas de Zara en las que he estado yo...
 
-- las plantas
-- los bichos
-
+- o mi gente :smile:
 @ulend
+---
+# EL MAPA
+
+<iframe src="https://www.google.com/maps/d/u/2/embed?mid=1WQKBxM4acuJ_09LAf4xOMVMCYMvD503h" width="1200" height="600"></iframe>
 
 +++
 
-<iframe src="https://www.google.com/maps/d/u/2/embed?mid=1WQKBxM4acuJ_09LAf4xOMVMCYMvD503h" width="1200" height="600"></iframe>
+@ul
+- En azul están los que he visitado yo, que para eso es mi color favorito
+
+- En rojo los que han visitado mis incondicionales: alumnas, compañeras...
 
 ---
 
