@@ -8,19 +8,17 @@
 - En esta web podéis ver las tiendas de Zara en las que he estado yo...
 
 - o mis Barbies!!!
-@ulend
-+++
 
-@ul
+
 - En azul están los que he visitado yo, que para eso es mi color favorito
 
 - En rojo los que han visitado mis Barbies: alumnas, compañeras...
+
 @ulend
 
 ---
 
 <iframe src="https://www.google.com/maps/d/u/2/embed?mid=1WQKBxM4acuJ_09LAf4xOMVMCYMvD503h" width="1200" height="600"></iframe>
-
 
 ---
 
