@@ -7,11 +7,12 @@
 @ul
 - En esta web podéis ver las tiendas de Zara en las que he estado yo...
 
-- o mi gente :smile:
+- o mis Barbies!!!
 @ulend
 ---
+@snap[north-west]
 # @size[0.5em](El mapa)
-
+@snapend
 <iframe src="https://www.google.com/maps/d/u/2/embed?mid=1WQKBxM4acuJ_09LAf4xOMVMCYMvD503h" width="1200" height="600"></iframe>
 
 +++
