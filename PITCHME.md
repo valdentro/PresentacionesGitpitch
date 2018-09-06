@@ -10,7 +10,7 @@
 - o mi gente :smile:
 @ulend
 ---
-# EL MAPA
+# @size[3.5em](El mapa)
 
 <iframe src="https://www.google.com/maps/d/u/2/embed?mid=1WQKBxM4acuJ_09LAf4xOMVMCYMvD503h" width="1200" height="600"></iframe>
 
